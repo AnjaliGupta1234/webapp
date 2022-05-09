@@ -1,0 +1,49 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+    font-weight:bold ;
+
+}
+
+h4{
+    color:lightseagreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+#camera{
+    height: 400px;
+    width: 500px;
+    border-color: darkblue;
+}
+
+img{
+    width:37%;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 8px 8px 8px 8px grey;
+    margin-bottom: 7px;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+.column{
+    display: inline;
+    padding : 7px;
+}
+
+.copy_right_footer{
+    background-color: plum;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+
+
+    
